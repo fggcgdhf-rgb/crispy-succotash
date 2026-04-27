@@ -1,0 +1,11 @@
+{
+    "display_name": "Phone & Lifestyle Extension",
+    "name": "phone-lifestyle",
+    "version": "1.0.0",
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Custom Extension",
+    "description": "Virtual phone with Instagram, LINE, Music, Bank, Twitter, TikTok, Pet System & Notes",
+    "homePage": "https://github.com/",
+    "requires": []
+}
